@@ -8,7 +8,7 @@ I am an amateur code boy.
 
 ## 😄 Fun fact
 
-- :sun_with_face:1999/04/20
+- :sun_with_face:1999/04/10
 - :stuck_out_tongue:专业：软件工程 
 - :school:学院：计算机学院 
 - :mortar_board:学历：本科
