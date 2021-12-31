@@ -40,7 +40,7 @@ I am an amateur code boy.
 
 <p align="center">
     <a href="https://github.com/mobilesmallcar/alg">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mobilesmallcar&repo=alg/java" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mobilesmallcar&repo=alg" />
     </a>
 </p>
 
