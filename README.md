@@ -8,18 +8,17 @@ I am an amateur code boy.
 
 ## 😄 Fun fact
 
-- :sun_with_face:1998/05/05
+- :sun_with_face:1999/04/20
 - :stuck_out_tongue:专业：软件工程 
 - :school:学院：计算机学院 
 - :mortar_board:学历：本科
-- :house_with_garden:籍贯：四川绵阳
-- :first_quarter_moon:QQ: 1099129793 
-- :wilted_flower:微信: yl1099129793 
-- :telephone:电话：13795950539
-- :basketball_man:微信公众号：尹哥
-- :email:Email: 1099129793@qq.com
-- :smile:最喜欢的技术栈：C++、C、Go、Kotlin、Flutter、Python、React、Tensorflow
-- :construction:在职单位：中国联合网络通信有限公司绵阳市分公司 （中国联通）
+- :house_with_garden:籍贯：四川达州
+- :first_quarter_moon:QQ: 3120942614 
+- :wilted_flower:微信: 15282426242 
+- :telephone:电话：15282426242
+- :email:Email: xsy15282426242@qq.com
+- :smile:最喜欢的技术栈：Java、分布式、Python、数据结构、Tensorflow
+- :construction:在职单位：上海润益科技(收购于欧冶工业品)
 
 <p align="left">
     <a href="#">
