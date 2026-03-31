@@ -2,7 +2,8 @@
 
 # 😏 Hi,  Ladies or Gentlemen👋, nice to meet you :)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mobilesmallcar&count_private=true&show_icons=true&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
+<!-- <img align="right" src="https://github-stats-extended.vercel.app/api?username=mobilesmallcar&show_icons=true&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff" /> -->
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mobilesmallcar&layout=compact&title_color=ffaa22&text_color=383838&bg_color=ffffff" />
 
 I am an amateur code boy.
 
@@ -20,8 +21,8 @@ I am an amateur code boy.
 - :smile:最喜欢的技术栈：Java、分布式、Python、数据结构、RAG、强化学习、pytorch
 
 <p align="left">
-    <a href="#">
-	<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mobilesmallcar&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en](https://github.com/mobilesmallcar/leetcode-150/blob/master/README.md)" />
+<a href="https://github.com/mobilesmallcar/leetcode-150">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mobilesmallcar&repo=leetcode-alg" />
 </a>
 </p>
 
