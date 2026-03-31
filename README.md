@@ -17,12 +17,11 @@ I am an amateur code boy.
 - :wilted_flower:微信: 15282426242 
 - :telephone:电话：15282426242
 - :email:Email: xsy15282426242@qq.com
-- :smile:最喜欢的技术栈：Java、分布式、Python、数据结构、Tensorflow
-- :construction:在职单位：上海润益科技(收购于欧冶工业品)
+- :smile:最喜欢的技术栈：Java、分布式、Python、数据结构、RAG、强化学习、pytorch
 
 <p align="left">
     <a href="#">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobilesmallcar&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
+	<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mobilesmallcar&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en](https://github.com/mobilesmallcar/leetcode-150/blob/master/README.md)" />
 </a>
 </p>
 
@@ -36,7 +35,7 @@ I am an amateur code boy.
 
 ### 
 
-### 进阶学习项目:java数据结构
+### 进阶学习项目:python数据结构
 
 <p align="center">
     <a href="https://github.com/mobilesmallcar/alg">
