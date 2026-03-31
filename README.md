@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - 🎂 **1999/04/10** · 四川达州
 - 🎓 **软件工程本科** | 计算机学院
-- 📬 **联系方式**：QQ 3120942614 | 微信/电话 15282426242 | xsy15282426242@qq.com
+- 📬 **联系方式**：QQ 3120942614 | 微信/电话 15282426242 | 3120942614@qq.com
 
 ### 🔥 Favorite Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -51,9 +51,10 @@ Java 后端转 AI 的刷题记录，包含 Python 实现、思路分析与模板
 
 **🔥 欢迎 Star 支持我的学习之旅！** ⭐
 
-如果你对**从零实现神经网络**、**数据结构**、**RAG** 或 **PyTorch** 感兴趣，随时欢迎交流～
+如果你对**从零实现神经网络**、**数据结构**、**RAG**、**通用llm**、**强化学习**、**业务解决方案**、**NL2Sql** 或 **PyTorch** 感兴趣，随时欢迎交流～
 
-**👀 Profile Views**  ![Profile Views](https://komarev.com/ghpvc/?username=mobilesmallcar&label=Profile%20Views&color=FFAA22&style=flat)
+**👀 Profile Views**  
+![Profile Views](https://komarev.com/ghpvc/?username=mobilesmallcar&label=Profile%20Views&color=FFAA22&style=for-the-badge)
 
 ---
 
